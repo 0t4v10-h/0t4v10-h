@@ -17,6 +17,7 @@
 
 🔹 **AquaVidaManager (Java Web)**  
 Sistema web para gerenciamento de piscicultura desenvolvido com Java Web utilizando arquitetura MVC.
+
 Principais funcionalidades:
 - Cadastro e gerenciamento de tanques
 - Controle de peixes e lotação
