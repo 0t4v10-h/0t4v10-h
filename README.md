@@ -4,9 +4,10 @@
 ☁️ Em formação em **Cloud Computing e Inteligência Artificial** (AWS re/Start + IA)
 
 💡 Tenho foco em desenvolvimento de software e interesse em áreas como:
+- Desenvolvimento full stack
 - Inteligência Artificial
 - Sistemas autônomos
-- Desenvolvimento full stack
+- Computação em nuvem
 
 🚀 Atualmente busco uma oportunidade de **estágio em desenvolvimento ou tecnologia**, onde eu possa aplicar meus conhecimentos e evoluir na prática.
 
@@ -14,14 +15,25 @@
 
 ## 🚀 Projetos em destaque
 
-🔹 **A* Pathfinding Visualizer (Python + Pygame)**  
-Simulação interativa do algoritmo A* com:
-- Visualização passo a passo
-- Controle de velocidade
-- Destaque de nós (abertos, fechados e atual)
-- Interface interativa com grid
+🔹 **AquaVidaManager (Java Web)**  
+Sistema web para gerenciamento de piscicultura desenvolvido com Java Web utilizando arquitetura MVC.
+Principais funcionalidades:
+- Cadastro e gerenciamento de tanques
+- Controle de peixes e lotação
+- Monitoramento de parâmetros da água
+- Registro de vendas
+- Controle de usuários (Admin e Funcionário)
+- Dashboard com métricas do sistema
+- Controle inteligente de lotação dos tanques
 
-👉 [Ver projeto](https://github.com/0t4v10-h/astar-pathfinding.git)
+Tecnologias utilizadas:
+- Java
+- JSP & Servlet
+- JDBC
+- MySQL
+- HTML, CSS e JavaScript
+
+👉 [Ver projeto](https://github.com/0t4v10-h/AquaVidaManager.git)
 
 ---
 
@@ -46,11 +58,13 @@ Simulação interativa do algoritmo A* com:
 
 ---
 
-## 📈 Em desenvolvimento
+## 📈 Atualmente estudando
 
-- Projetos com algoritmos de busca (A*, Dijkstra)
-- Aplicações com consumo de APIs (BRAPI)
-- Práticas com AWS (EC2, S3, IAM)
+- Arquitetura de aplicações Java
+- APIs REST
+- AWS Cloud Practitioner
+- Boas práticas de desenvolvimento
+- Inteligência Artificial aplicada
 
 ---
 
